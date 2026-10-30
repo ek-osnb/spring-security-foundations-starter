@@ -1,6 +1,6 @@
 # Spring Security Foundations: starter
 
-A small notes app. In the [Spring Security exercises](https://e26-3sem.osnb.courses/prog2/spring-security-foundations/adding-security) you add security to it, one exercise at a time.
+A small notes app. In the [Spring Security exercises](https://e26-3sem.osnb.courses/prog2/spring-security-foundations/setup) you add security to it, one exercise at a time.
 
 - Spring Boot serves both the API (`/api/...`) and the page (`src/main/resources/static`).
 - The database is H2 in memory. It starts over every time you restart the app.
